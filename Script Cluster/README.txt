@@ -1,0 +1,1 @@
+All scripts need to have the module.sh placed in the working directory before use.
